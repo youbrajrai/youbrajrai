@@ -6,6 +6,6 @@
 - 👀 I’m interested in ...Software Development, AI ...
 - 🤔 I’m looking for help with AI, Flutter Projects ...
 - 💬 Ask me about anything , but BULLSHIT
-- 📫 How to reach me: ... youbrajrai79@gmail.com , yubarajrai79@gmail.com
+- 📫 How to reach me: ... youbrajrai79@gmail.com , yubarajrai79@gmail.com , +977 9810532105, +977 9749238925
 - 😄 Pronouns: ... Yubay / He
 - ⚡ Fun fact: ... I love to Google 
