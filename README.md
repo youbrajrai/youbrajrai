@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at QuantumTechInfo as Full Stack Developer in PHP and Larabvel for website development ... 
+- 🔭 I’m currently working at Makalu IT as Full Stack Developer in PHP and Laravel for website development ... 
 - 🌱 I have completed my Bachelor Degree on Computer Engineering 2017-2022
 - 👯 I’m looking to collaborate on OpenCV, ML integration with Flutter, and Data Science ...
 - 👀 I’m interested in ...Software Development, AI ...
@@ -26,11 +26,6 @@
 
 <!--  <img align="left" alt="aMa-Production's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aMa-Production&show_icons=true&hide_border="true" />  -->
 
-
-
-# Hi there, I'm Youbraj Rai - aka [60secondsofcode][youtube] 👋 
-
-➡️ [more videos...](https://youtube.com/60secondsofcode)
 
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/60secondsofCode?logo=youtube&logoColor=red&style=for-the-badge)][youtube] -->
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
