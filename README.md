@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Konnect Lead as Full Stack Developer in PHP and Laravel for website development ... 
+- 🔭 I’m currently working at Konnect Lead as Full Stack Developer in Django and Laravel for website development ... 
 - 🌱 I have completed my Bachelor Degree on Computer Engineering 2017-2022
 - 👯 I’m looking to collaborate on OpenCV, ML integration with Flutter, and Data Science ...
 - 👀 I’m interested in ...Software Development, AI ...
@@ -126,7 +126,7 @@
 <!--   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
 
 <!-- </details> -->
-[youtube]: https://www.youtube.com/60secondsofcode
+<!--[youtube]: https://www.youtube.com/60secondsofcode-->
 <!-- [website]: http://anishmandal.iceiy.com -->
 <!-- [course]: http://vsCodeHero.com -->
 <!-- [twitter]: https://twitter.com/anishmandal
